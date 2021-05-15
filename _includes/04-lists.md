@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning Python and Algorithms
